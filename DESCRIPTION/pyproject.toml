@@ -1,0 +1,14 @@
+[project]
+name = "LING 414 Final Project"
+version = "1.0.0"
+author = "Sydney Moore" 
+description = "analyzing intensifiers in COCA" 
+
+dependencies = [ 
+    "pandas",
+    "numpy", 
+    "matplotlib", 
+    "statsmodels", 
+    "pathlib",
+]
+

@@ -1,0 +1,66 @@
+
+================================================================================
+INTENSIFIER: VERY — RATE RATIOS
+Intercept            0.000485
+C(decade)[T.2000]    0.915761
+C(decade)[T.2010]    0.834307
+genre[T.fic]         1.222340
+genre[T.mag]         1.295492
+genre[T.news]        1.145212
+genre[T.spok]        4.355835
+dtype: float64
+
+================================================================================
+INTENSIFIER: REALLY — RATE RATIOS
+Intercept             0.000094
+C(decade)[T.2000]     1.120897
+C(decade)[T.2010]     1.128202
+genre[T.fic]          4.507230
+genre[T.mag]          3.838255
+genre[T.news]         3.590461
+genre[T.spok]        13.710248
+dtype: float64
+
+================================================================================
+INTENSIFIER: SO — RATE RATIOS
+Intercept            0.000829
+C(decade)[T.2000]    1.045393
+C(decade)[T.2010]    1.040217
+genre[T.fic]         2.681249
+genre[T.mag]         2.023333
+genre[T.news]        1.530572
+genre[T.spok]        4.509380
+dtype: float64
+
+================================================================================
+INTENSIFIER: TOTALLY — RATE RATIOS
+Intercept            0.000020
+C(decade)[T.2000]    0.872297
+C(decade)[T.2010]    0.791571
+genre[T.fic]         1.771095
+genre[T.mag]         2.022246
+genre[T.news]        1.521312
+genre[T.spok]        3.792439
+dtype: float64
+
+================================================================================
+INTENSIFIER: SUPER — RATE RATIOS
+Intercept            0.000009
+C(decade)[T.2000]    1.091101
+C(decade)[T.2010]    1.528934
+genre[T.fic]         1.375405
+genre[T.mag]         4.840030
+genre[T.news]        6.394593
+genre[T.spok]        3.596257
+dtype: float64
+
+================================================================================
+INTENSIFIER: LITERALLY — RATE RATIOS
+Intercept            0.000020
+C(decade)[T.2000]    1.051478
+C(decade)[T.2010]    1.135594
+genre[T.fic]         0.728600
+genre[T.mag]         1.567258
+genre[T.news]        1.006559
+genre[T.spok]        2.457726
+dtype: float64
